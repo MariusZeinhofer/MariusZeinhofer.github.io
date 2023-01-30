@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Marius Zeinhofer"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/me.jpg"
   bio    : "Postdoctoral Fellow at Simula Research Laboratory."
   links:
     - label: "Website"
