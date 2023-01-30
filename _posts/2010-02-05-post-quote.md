@@ -1,12 +1,11 @@
 ---
-title: "Post: Quote"
+title: "Functional Analysis for FEM"
+date: 2023-01-30T15:34:30-04:00
 categories:
-  - Blog
+  - blog
 tags:
-  - Post Formats
-  - quote
+  - Finite Element Method
+  - Simula Academy
 ---
 
-> Only one thing is impossible for God: To find any sense in any copyright law on the planet.
-  
-> <cite><a href="http://www.brainyquote.com/quotes/quotes/m/marktwain163473.html">Mark Twain</a></cite>
+Together with [Rami Masri](https://ramimasri.github.io/) I will be giving a course on the functional analytic backbone of finite element methods. The course will take place at Simula in March, you can find the registration form and a closer description [here](https://www.simula.no/education/courses/faefem-functional-analysis-essentials-finite-element-method).
