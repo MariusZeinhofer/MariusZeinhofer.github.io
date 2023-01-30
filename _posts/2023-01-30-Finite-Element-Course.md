@@ -5,7 +5,7 @@ categories:
   - blog
 tags:
   - FEM
-  - update
+  - Simula Academy
 ---
 
 
