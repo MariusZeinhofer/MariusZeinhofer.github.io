@@ -62,9 +62,9 @@ author:
   avatar : "/assets/images/me.jpg"
   bio    : "Postdoctoral Fellow at Simula Research Laboratory."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+  #  - label: "Website"
+  #    icon: "fas fa-fw fa-link"
+  #    url: "https://"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/MariusZeinhofer"
