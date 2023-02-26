@@ -13,6 +13,8 @@ title: "Publications"
 
 **4\. Uniform Convergence Guarantees for the Deep Ritz Method for Nonlinear Problems**, with Patrick Dondl and Johannes Müller, Advances in Continuous and Discrete Models, SpringerOpen, 2022, [fulltext available](https://advancesindifferenceequations.springeropen.com/articles/10.1186/s13662-022-03722-8) 
 
-**4\. A Parameter Study on Optimal Scaffolds in a Simple Model for Bone Regeneration**, with Patrick Dondl, IX International Conference on Computational Bioengineering, 2022, [fulltext available](https://iccb2022.tecnico.ulisboa.pt/proceedings_ICCB2022/PDF/ID57_T2DM_Model_ICCB2022(1).pdf) 
+**3\. A Parameter Study on Optimal Scaffolds in a Simple Model for Bone Regeneration**, with Patrick Dondl, IX International Conference on Computational Bioengineering, 2022, [fulltext available](https://iccb2022.tecnico.ulisboa.pt/proceedings_ICCB2022/PDF/ID57_T2DM_Model_ICCB2022(1).pdf) 
 
+**2\. An Efficient Model for Scaffold-Mediated Bone Regeneration**, with Patrina S. P. Poh and Patrick Dondl, SIAM Journal on Applied Mathematics, 82(3):924--949, 2022.
 
+**1\. Deep Ritz revisited**, with Johannes Müller, ICLR workshop on Integration of Deep Neural Models and Differential Equations, 2020, [fulltext available](https://openreview.net/pdf?id=f0hUCzC_y)
