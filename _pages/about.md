@@ -1,6 +1,8 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /publications/
+title: "Publications"
 ---
 
-I am a postdoctoral fellow at Simula Research Laboratory, working in the group of Kent Andre Mardal on Scientifc Machine Learning. Here is my [Google Scholar](https://scholar.google.com/citations?user=8VNBu-UAAAAJ&hl=en). This page is currently under construction and will shortly contain more information.
+## Publications
+
+**1\. Error Estimates for the variational training of neural newtorks with boundary penalty**, with Johannes Muller, Third Conference on Mathematical and Scientific Machine Learning, Proceedings of Machine Learning Research, Volume 190, 2022, [fulltext available](https://proceedings.mlr.press/v190/muller22a.html)
