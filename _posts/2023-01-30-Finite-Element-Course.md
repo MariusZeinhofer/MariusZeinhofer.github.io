@@ -1,12 +1,12 @@
 ---
-title: "Finite Element Course"
+title: "Talk at MSML 2025 in Naples"
 #date: 2019-04-18T15:34:30-04:00
 categories:
   - blog
 tags:
-  - FEM
-  - Simula
+  - Infinite dimensional optimization for SciMl
+  - MSML
 ---
 
 
-Together with [Rami Masri](https://ramimasri.github.io/) I will be giving a course on the functional analytic backbone of finite element methods. The course will take place at Simula in March, you can find the registration form and a closer description [here](https://www.simula.no/education/courses/faefem-functional-analysis-essentials-finite-element-method).
+I will give a talk at [MSML 2025](https://sites.google.com/view/msml2025/home) on infinite-dimensional optimization techniques for scientific machine learning. 
